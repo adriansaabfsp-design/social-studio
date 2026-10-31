@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.data/
+.data*/
+.venv/
+*.log
+.DS_Store
+.env*
+
+.voice-venv/
+
+# Tutorial video (49 MB) kept out of git; share it separately
+public/assets/tutorial.mp4
+Social Studio Tutorial.mp4
